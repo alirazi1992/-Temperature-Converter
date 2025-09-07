@@ -23,7 +23,9 @@ A simple **command-line Temperature Converter** that supports conversions betwee
 
 ## 📸 Screenshots
 
-
+| 🌡️ |
+|---------------|
+| ![Screenshot](./Screenshot 2025-09-07 085809.png) |
 ---
 ## 📚 Learning Goals
 
